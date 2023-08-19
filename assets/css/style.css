@@ -45,3 +45,17 @@ body{
 .slider-img {
     text-align: right;
 }
+
+/* community css */
+.community-text h2{
+    font-weight:600;
+    font-size:45px;
+}
+
+.community-text p{
+    color: #BABABA;
+}
+.client-logo{
+    display:flex;
+    justify-content:space-between;
+}
